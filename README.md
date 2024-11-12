@@ -22,4 +22,4 @@ This backdoor has one of the smallest volume due to its few functions, server fi
 <br>
 
 <br>
-![Capture](https://github.com/user-attachments/assets/25ad825a-9745-4926-ad55-d25723fcd051)
+
