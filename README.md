@@ -18,6 +18,7 @@ This backdoor has one of the smallest volume due to its few functions, server fi
 <br>
 این دربپشتی یکی از کمترین مقدار حجم را دارد به دلیل کارایی های کمی که داره فایروال های سرور بهش گیر نمیدن و به راحتی میتوانید آن را آپلود کنید داخل وب سایت مورد هدف.
 <br>
-<br>
+<br>![Capture](https://github.com/user-attachments/assets/d66bd95f-61e0-40bb-bd5d-646fadf43df7)
+
 <br>
 ![Capture](https://github.com/user-attachments/assets/25ad825a-9745-4926-ad55-d25723fcd051)
